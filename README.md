@@ -7,6 +7,7 @@
 
 ## Projects
 **Hotel Bookings Analysis**
-[Documentation](https://medium.com/@akintundetemiloluwa.a/hotel-booking-analysis-37235d0c47f3)
+
+[Publication](https://medium.com/@akintundetemiloluwa.a/hotel-booking-analysis-37235d0c47f3)
 - Extracted insights from a hotel bookings dataset to optimize the company's services for international travelers. This project was analyzed using excel and stata.
 - This project gave an overview of the company's bookings along the years, assisted in marketing strategies and methods on how to improve customers satisfaction.
