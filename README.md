@@ -9,4 +9,10 @@
 ### Hotel Bookings Analysis
 [Publication](https://medium.com/@akintundetemiloluwa.a/hotel-booking-analysis-37235d0c47f3)
 
-Extracted insights from a hotel bookings dataset to optimize the company's services for international travelers. This project was analyzed using **Excel** and **Stata**. This project gave an overview of the company's bookings along the years, assisted in marketing strategies and methods on how to improve customers satisfaction.
+Utilizing a hotel booking dataset, valuable insights was extracted to improve services for international travelers. Applying the use of Excel and Stata, this project provides a detailed overvie of the company's booking trends over the years. The analysis aid targeted marketing strategies and offered actionable methods to improve customers satisfaction level.
+
+### Adidas Sales Analysis
+[Publication](https://medium.com/@akintundetemiloluwa.a/adidas-sales-analysis-258286a671ec)
+
+The analysis of the Adidas Sales dataset using Python and Power BI provides valuable insights into sales trends and details such as retailers, sales locations, revenue, product type and other valuable information. This analysis helps in understanding sales trends and elevating market strategies for better decision making to enhance market performance.
+
