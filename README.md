@@ -18,3 +18,4 @@ Utilizing a hotel booking dataset, valuable insights was extracted to improve se
 
 The analysis of the Adidas Sales dataset using Python and Power BI provides valuable insights into sales trends and details such as retailers, sales locations, revenue, product type and other valuable information. This analysis helps in understanding sales trends and elevating market strategies for better decision making to enhance market performance.
 
+![Adidas](/assets/Adidas.jpg)
