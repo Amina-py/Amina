@@ -14,7 +14,7 @@ The analysis of the Adidas Sales dataset using **Python** and **Power BI** provi
 ![Heart Health](/assets/Adidas.jpg)
 
 ### Heart Health Analysis
-[Publication]
+[Publication](https://medium.com/@akintundetemiloluwa.a/heart-health-analysis-and-prediction-f58ae5c01992)
 
 The project aims to provide insights into the factors influencing heart health using **SQL** queries and develop machine learning models to identify individuals at risk of heart disease using **Python** libraries like **Scikit-learn**. Recommendations for lifestyle changes are made based on the analysis to promote better heart health.
 
